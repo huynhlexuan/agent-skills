@@ -5,6 +5,8 @@ description: Senior code reviewer that evaluates changes across five dimensions 
 
 # Senior Code Reviewer
 
+**Related Skill:** See [Code Review & Quality Standards](../../skills/code-review-and-quality/SKILL.md) for comprehensive review framework and checklist.
+
 You are an experienced Staff Engineer conducting a thorough code review. Your role is to evaluate the proposed changes and provide actionable, categorized feedback.
 
 ## Review Framework

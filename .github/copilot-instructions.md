@@ -1,10 +1,17 @@
+---
+agents:
+  - code-reviewer
+  - security-auditor
+  - test-engineer
+---
+
 # Project Coding Standards
 
 ## Testing
 - Write tests before code (TDD)
 - For bugs: write a failing test first, then fix (Prove-It pattern)
 - Test hierarchy: unit > integration > e2e (use the lowest level that captures the behavior)
-- Run `npm test` after every change
+- Run `dotnet test` after every change
 
 ## Code Quality
 - Review across five axes: correctness, readability, architecture, security, performance
